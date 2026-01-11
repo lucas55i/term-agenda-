@@ -1,0 +1,8 @@
+[project]
+name = "term-agenda"
+version = "0.1.0"
+description = "Agenda pessoal via terminal"
+requires-python = ">=3.10"
+
+[project.scripts]
+term-agenda = "term_agenda.main:main"
